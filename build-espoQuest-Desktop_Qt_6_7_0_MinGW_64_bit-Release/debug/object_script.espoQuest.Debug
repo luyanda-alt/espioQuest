@@ -1,0 +1,10 @@
+debug/feedback.o
+debug/main.o
+debug/mainwindow.o
+debug/question.o
+debug/questionbank.o
+debug/ringprogressbar.o
+debug/qrc_Resources.o
+debug/qrc_Sounds.o
+debug/moc_mainwindow.o
+debug/moc_ringprogressbar.o

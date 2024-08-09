@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Gifs">
+        <file>GIFs/bad.gif</file>
+        <file>GIFs/eighty.gif</file>
+        <file>GIFs/fifty.gif</file>
+        <file>GIFs/goodjob.gif</file>
+        <file>GIFs/hundred.gif</file>
+        <file>GIFs/seventy.gif</file>
+        <file>GIFs/sixty.gif</file>
+        <file>GIFs/twenty.gif</file>
+    </qresource>
+</RCC>

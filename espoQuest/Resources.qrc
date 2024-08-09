@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>pictures/feedbackBackground.png</file>
+        <file>pictures/image.png</file>
+        <file>pictures/instructionImage.png</file>
+        <file>pictures/light_bulb.jpg</file>
+        <file>pictures/menuImage.png</file>
+        <file>pictures/name.png</file>
+        <file>pictures/quiz.png</file>
+        <file>pictures/skip.png</file>
+        <file>pictures/lock.jpg</file>
+        <file>sounds/musical-note-symbol.ico</file>
+    </qresource>
+</RCC>

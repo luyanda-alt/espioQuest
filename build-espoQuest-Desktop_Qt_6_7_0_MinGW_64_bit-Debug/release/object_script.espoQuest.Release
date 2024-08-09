@@ -1,0 +1,10 @@
+release/feedback.o
+release/main.o
+release/mainwindow.o
+release/question.o
+release/questionbank.o
+release/ringprogressbar.o
+release/qrc_Resources.o
+release/qrc_Sounds.o
+release/moc_mainwindow.o
+release/moc_ringprogressbar.o
